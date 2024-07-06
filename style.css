@@ -1,4 +1,4 @@
-html { background: white url(background.jpg) center center no-repeat;
+html { background: rgb(15, 16, 10) url(background.jpg) center center no-repeat;
 background-size: cover; color: white; }
 
 body { display: block; place-items: center; margin: 0; font-family: Inter, 
